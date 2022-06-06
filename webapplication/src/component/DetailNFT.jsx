@@ -54,7 +54,7 @@ export default function DetailNFT(props) {
                       </h5>
                     </div>
                     <img class=" card-img-top p-2" src={audio} alt="My MUSIC" style={{ 'width': '800px', 'height': '580px' }} />
-                    <audio controls controlsList="nodownload" style={{ 'width': '103%' }}>
+                    <audio controls controlsList="nodownload" style={{ 'width': '88%' }}>
                       <source src={`http://localhost:8080/${file.filePath}`} type="audio/mpeg" />
                     </audio> </div></>
               }) : ''}
