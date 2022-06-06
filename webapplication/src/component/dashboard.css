@@ -1,0 +1,143 @@
+#btns>li>a {
+    color: black;
+}
+
+#btns {
+    background-color: rgb(238, 61, 133);
+
+
+}
+#nav-tabContent{
+    background-color: black !important;
+} 
+.nav-link>button{
+    background-color: white !important;
+} 
+.nav-link>button:hover{
+    background-color: white !important;
+    text-decoration: none;
+} 
+#nav-tab{
+
+    background-color:#000000!important;
+  
+    
+}
+
+
+
+    #nav-tabs{
+
+        background-color:#c559cf!important;
+        position: absolute; 
+        top: 78.7%;  
+        font-size: 16px; 
+        opacity: 0.8;
+        border-radius: 5px;
+        text-align: center;
+        
+    }
+    
+    #nav-home-tabs,#nav-profile-tabs{
+        color: white;
+         background-color: #c559cf;
+          border-color:black;
+        }
+
+.banner {
+    height:600px;
+    margin-top: -0.5%; 
+}
+#marketlogo {
+    width: 35px;
+    height: 35px;
+}
+
+#btns a {
+    font-family: 'futuraBook';
+    font-size: 22px;
+}
+
+
+
+#navLinkDash {
+    background-color: rgb(238, 61, 133);
+    padding: 50px 50px 0 50px;
+}
+
+.navDash {
+    color: black;
+    font-family: "futuraBook";
+    font-size: 25px;
+}
+
+.navDash:hover {
+    color: black;
+}
+
+
+.accordion-header a {
+    text-decoration: none;
+    color: white;
+}
+
+#btns>li.active {
+    color: black !important;
+    background-color: black;
+}
+
+
+#btns>li>a:hover {
+    color: black;
+}
+
+.pink {
+    background-color: rgb(238, 61, 133);
+    margin-top: -8px;
+    height: 100%;
+}
+
+.dashhead {
+    font-family: 'futuraBold';
+    color: white;
+}
+
+@font-face {
+    font-family: futuraBold;
+    src: url(../Assets/Futura\ Bold\ font.ttf);
+
+}
+
+@font-face {
+    font-family: futuraMedium;
+    src: url(../Assets/futura\ medium\ bt.ttf);
+
+}
+
+
+@font-face {
+    font-family: futuraBook;
+    src: url(../Assets/Futura\ Book\ font.ttf);
+
+}
+
+@font-face {
+    font-family: futuraExtraBold;
+    src: url(../Assets/Futura\ Extra\ Black\ font.ttf);
+
+}
+
+#headingOne {
+    font-family: 'futuraMedium';
+}
+
+
+.paragp {
+    font-family: 'futuraMedium';
+    font-size: 33px;
+    font-weight: 100px;
+    color: yellow;
+}
+#nav-tab {
+    border-bottom: 0;
+}

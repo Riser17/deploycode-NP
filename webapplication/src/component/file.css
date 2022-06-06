@@ -1,0 +1,68 @@
+#previewdiv {
+    border-style: none;
+    box-shadow: 1px 6px 15px 4px rgba(201, 28, 192, 0.925);
+    height: 600px;
+    width: 800px;
+}
+
+.vertical-center {
+    margin-left: 260px;
+    position: absolute;
+    bottom: -4%;
+    -ms-transform: translateY(-65%);
+    transform: translateY(-65%);}
+
+#form {
+    background-image: linear-gradient(to  bottom,  rgba(90, 4, 86, 0.87),rgb(23, 0, 27));
+    opacity: 0.7; 
+    /* rgba(60, 28, 66, 0.87); */
+    color: rgb(255, 255, 255);
+    box-shadow: 1px 6px 15px 4px rgba(201, 28, 192, 0.925);
+
+   
+    border: 3px rgba(201, 28, 192, 0.925) solid ;
+    
+}
+#createform>div>div {
+    padding-bottom: 40px;
+}
+#base{
+    font-family: futuraBold;
+    font-size: 25px;
+}
+#createform>div>div>h4 {
+    font-family: futuraBold;
+}
+
+#createnow {
+    background-color: rgba(201, 28, 192, 0.925);
+    color: white;
+    width: 183px;
+    height: 43px;
+}  
+
+
+@font-face {
+    font-family: futuraBold;
+    src: url(../Assets/Futura\ Bold\ font.ttf);
+
+}
+
+@font-face {
+    font-family: futuraMedium;
+    src: url(../Assets/futura\ medium\ bt.ttf);
+
+}
+
+
+@font-face {
+    font-family: futuraBook;
+    src: url(../Assets/Futura\ Book\ font.ttf);
+
+}
+
+@font-face {
+    font-family: futuraExtraBold;
+    src: url(../Assets/Futura\ Extra\ Black\ font.ttf);
+
+}

@@ -1,0 +1,309 @@
+{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_744.jpg",
+      "filePath": "uploads\\2022-05-31T10-50-19.724Z-resource_document_mauritshuis_744.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "54.53 KB"
+    }
+  ],
+  "_id": "6295f2ebe5f0ee3bf026d237",
+  "Category": "art",
+  "NFTname": "NFT-1",
+  "Royalty": 6,
+  "Amount": 0.8,
+  "Description": "art",
+  "Tags": "girl",
+  "CreatorName": "Mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 21,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "sample-12s.mp3",
+      "filePath": "uploads\\2022-05-31T10-52-25.270Z-sample-12s.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "205.47 KB"
+    }
+  ],
+  "_id": "6295f369e5f0ee3bf026d238",
+  "Category": "music",
+  "NFTname": "NFT-1",
+  "Royalty": 6,
+  "Amount": 0.8,
+  "Description": "sample",
+  "Tags": "15SEC",
+  "CreatorName": "Thomas",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 22,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_670.jpg",
+      "filePath": "uploads\\2022-05-31T10-58-30.452Z-resource_document_mauritshuis_670.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "61.21 KB"
+    }
+  ],
+  "_id": "6295f4d6e5f0ee3bf026d239",
+  "Category": "art",
+  "NFTname": "NFT-1",
+  "Royalty": 6,
+  "Amount": 0.8,
+  "Description": "Artnft",
+  "Tags": "Girlart",
+  "CreatorName": "Mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 23,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_277.jpg",
+      "filePath": "uploads\\2022-06-03T08-50-25.253Z-resource_document_mauritshuis_277.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "51.35 KB"
+    }
+  ],
+  "_id": "6299cb51571fd00dc03048e3",
+  "Category": "art",
+  "NFTname": "The Legend",
+  "Royalty": 4,
+  "Amount": 0.4,
+  "Description": "art",
+  "Tags": "art,paint,bird",
+  "CreatorName": "Mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 30,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_285.jpg",
+      "filePath": "uploads\\2022-06-05T16-59-08.849Z-resource_document_mauritshuis_285.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "47.41 KB"
+    }
+  ],
+  "_id": "629ce0dcb38ced206c4fcb5e",
+  "Category": "art",
+  "NFTname": "ArtNFT-1",
+  "Royalty": 0.3,
+  "Amount": 4,
+  "Description": "Art",
+  "Tags": "art, religion",
+  "CreatorName": "Mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 37,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "sample-12s.mp3",
+      "filePath": "uploads\\2022-06-05T17-03-24.966Z-sample-12s.mp3",
+      "fileType": "audio/mpeg",
+      "fileSize": "205.47 KB"
+    }
+  ],
+  "_id": "629ce1dcb38ced206c4fcb5f",
+  "Category": "music",
+  "NFTname": "MusicNFT 1",
+  "Royalty": 0.5,
+  "Amount": 5,
+  "Description": "music",
+  "Tags": "music,12 sec",
+  "CreatorName": "MIKE",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 38,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_868.jpg",
+      "filePath": "uploads\\2022-06-05T17-06-43.208Z-resource_document_mauritshuis_868.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "46.83 KB"
+    }
+  ],
+  "_id": "629ce2a3b38ced206c4fcb60",
+  "Category": "art",
+  "NFTname": "ArtNFT-2",
+  "Royalty": 0.7,
+  "Amount": null,
+  "Description": "Art ",
+  "Tags": "Royal, Art",
+  "CreatorName": "Thomas",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 39,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_285.jpg",
+      "filePath": "uploads\\2022-06-05T17-10-09.534Z-resource_document_mauritshuis_285.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "47.41 KB"
+    }
+  ],
+  "_id": "629ce371b38ced206c4fcb61",
+  "Category": "art",
+  "NFTname": "ARTNFT-2",
+  "Royalty": 0.6,
+  "Amount": null,
+  "Description": "art",
+  "Tags": "art",
+  "CreatorName": "Thomas",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 40,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_220.jpg",
+      "filePath": "uploads\\2022-06-05T17-13-11.952Z-resource_document_mauritshuis_220.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "35.99 KB"
+    }
+  ],
+  "_id": "629ce427b38ced206c4fcb62",
+  "Category": "art",
+  "NFTname": "ARTNFT-2",
+  "Royalty": 0.4,
+  "Amount": null,
+  "Description": "art",
+  "Tags": "art",
+  "CreatorName": "Thomas",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 41,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_285.jpg",
+      "filePath": "uploads\\2022-06-05T17-16-50.823Z-resource_document_mauritshuis_285.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "47.41 KB"
+    }
+  ],
+  "_id": "629ce502b38ced206c4fcb63",
+  "Category": "art",
+  "NFTname": "ArtNFT-2",
+  "Royalty": 0.3,
+  "Amount": 7,
+  "Description": "art",
+  "Tags": "art",
+  "CreatorName": "Thomas",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 42,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_220.jpg",
+      "filePath": "uploads\\2022-06-05T17-24-10.993Z-resource_document_mauritshuis_220.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "35.99 KB"
+    }
+  ],
+  "_id": "629ce6bbb38ced206c4fcb64",
+  "Category": "art",
+  "NFTname": "ARTNFT3",
+  "Royalty": 0.5,
+  "Amount": 12,
+  "Description": "art",
+  "Tags": "art",
+  "CreatorName": "Thomas",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 43,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_285.jpg",
+      "filePath": "uploads\\2022-06-05T17-27-33.197Z-resource_document_mauritshuis_285.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "47.41 KB"
+    }
+  ],
+  "_id": "629ce785b38ced206c4fcb65",
+  "Category": "art",
+  "NFTname": "ArtNFT3",
+  "Royalty": 0.4,
+  "Amount": 12,
+  "Description": "doc",
+  "Tags": "ART",
+  "CreatorName": "Thomas",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 44,
+  "itemId": 0
+}{
+  "files": [],
+  "_id": "629ce7e3b38ced206c4fcb66",
+  "Category": "art",
+  "NFTname": "ARTNFT4",
+  "Royalty": 0.6,
+  "Amount": 10,
+  "Description": "art",
+  "Tags": "ART",
+  "CreatorName": "Mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 45,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_1056.jpg",
+      "filePath": "uploads\\2022-06-05T17-31-50.672Z-resource_document_mauritshuis_1056.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "47.04 KB"
+    }
+  ],
+  "_id": "629ce886b38ced206c4fcb67",
+  "Category": "art",
+  "NFTname": "ARTNFT5",
+  "Royalty": 0.5,
+  "Amount": 2,
+  "Description": "art",
+  "Tags": "art",
+  "CreatorName": "Mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 46,
+  "itemId": 0
+}{
+  "files": [
+    {
+      "fileName": "resource_document_mauritshuis_93.jpg",
+      "filePath": "uploads\\2022-06-06T06-46-34.043Z-resource_document_mauritshuis_93.jpg",
+      "fileType": "image/jpeg",
+      "fileSize": "74.42 KB"
+    }
+  ],
+  "_id": "629da2ca8619c7109095b9be",
+  "Category": "art",
+  "NFTname": "ARTNFT6",
+  "Royalty": 0.6,
+  "Amount": 8,
+  "Description": "art",
+  "Tags": "art",
+  "CreatorName": "Mike",
+  "Owner": "0x726b5f7f945e12b261b2543c8450ef84122390de",
+  "Listed": false,
+  "tokenId": 47,
+  "itemId": 0
+}

@@ -1,0 +1,119 @@
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+  color: #000;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 1;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+
+#sortprice:hover
+{
+color: rgb(0, 0, 0);
+}
+#sortprice
+{
+color: rgb(255, 255, 255);
+}
+#pricesort {
+  box-shadow: 1px 6px 15px 4px rgba(201, 28, 192, 0.925);
+}
+
+#card {
+  padding: 0 2px ;
+}
+
+#example1 {
+  
+  padding: 10px;
+  border-radius: 50px 0px;
+}
+#example2 {
+  
+  background-color: rgb(241, 237, 237);
+  border-radius: 50px 0px;
+}
+
+#example2img {
+  border-top-left-radius: 50px;
+} 
+
+#price_prod{
+  background-color: rgba(60, 28, 66, 0.87);
+  border:solid white 2px;
+} 
+
+.minmax {
+  background-color:  rgba(60, 28, 66, 0.87);
+  box-shadow: 1px 6px 15px 4px rgba(201, 28, 192, 0.925);
+}
+#minmax1 {
+margin-left: 75px !important;
+width: 38%;
+padding-left: 72px!important;
+}
+
+#searchInput{
+  background-color: rgba(60, 28, 66, 0.87);
+  border: none;
+}
+#searchDiv{
+  background-color:  rgba(60, 28, 66, 0.87);
+  box-shadow: 1px 6px 15px 4px rgba(201, 28, 192, 0.925);
+}
+#list {
+  background-color:  rgba(60, 28, 66, 0.87);
+  box-shadow: 1px 6px 15px 4px rgba(201, 28, 192, 0.925);
+}
+#dropdownMenuButton2 {
+box-shadow: 1px 6px 15px 4px rgba(201, 28, 192, 0.925);
+width: 160px;
+}
+.asset {
+font-family: 'futuraBold';
+}
+#assetdesc{
+font-family: futuraBook;
+}
+
+@font-face {
+font-family: futuraBold;
+src: url(../../src/Assets/Futura\ Bold\ font.ttf);
+
+}
+.row2{
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+
+
+@font-face {
+font-family: futuraMedium;
+src: url(../../src/Assets/futura\ medium\ bt.ttf);
+
+}
+
+
+@font-face {
+font-family: futuraBook;
+src: url(../../src/Assets/Futura\ Book\ font.ttf);
+
+}
+
+@font-face {
+font-family: futuraExtraBold;
+src: url(../../src/Assets/Futura\ Extra\ Black\ font.ttf);
+
+}

@@ -1,0 +1,154 @@
+.modalBackground1 {
+    width: 100vw;
+    height: 100vh;
+    background-color: transparent;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(2px);
+    z-index: +2;
+    margin-top: 37px;
+    
+}
+#slidepopup {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#c1 {
+    font-family: 'FuturaExtraBold';
+    color: rgb(238, 61, 133);
+    text-decoration-style: solid;
+}
+
+#modelColor{
+    color: rgb(238, 61, 133);
+}
+
+#modelDiv{
+    padding-left: 80px !important;
+    padding-right: 80px !important;
+}
+
+#modelButton{
+    border: 2px rgb(238, 61, 133) solid;
+    width: 90px;
+    height: 90px;
+    padding: 10px;
+    color: rgb(238, 61, 133);
+    background-color: white;
+    margin-top: 30px;
+}
+.modalContainer1 {
+
+
+    width: 1186px;
+    left: 197px;
+    height: 769px;
+    background: linear-gradient(rgba(255, 254, 254, 0.849), rgba(255, 254, 254, 0.849)), url("../Assets/Oceans.jpg");
+    opacity: 0.2 !important;
+    border: 3px rgb(238, 61, 133) solid;
+    margin-bottom: 160px;
+    border-radius: 12px;
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    opacity: 100% !important;
+    /* transform: translate(-100%, -100%); */
+    
+    
+    
+    
+}
+
+.modalContainer1 .title {
+    display: inline-block;
+    text-align: center;
+    margin-top: 120px;
+
+
+}
+
+
+#modelHeading{
+    
+     align-items: center;
+     text-align: center;
+     display: inline-block;
+     font-size: 30px;
+     font-family: 'futuraExtraBold';
+}
+
+.titleCloseBtn1 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -30px;
+    
+}
+
+.titleCloseBtn1 button {
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+    
+}
+
+.modalContainer1 .body {
+    flex: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.7rem;
+    text-align: center;
+}
+
+.modalContainer1 .footer {
+    flex: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modalContainer1 .footer button {
+    width: 150px;
+    height: 45px;
+    margin: 10px;
+    border: none;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+
+
+
+@font-face {
+    font-family: futuraBold;
+    src: url(../Assets/Futura\ Bold\ font.ttf);
+
+}
+
+@font-face {
+    font-family: futuraMedium;
+    src: url(../Assets/Futura\ Medium\ Italic\ font.ttf);
+
+}
+
+
+@font-face {
+    font-family: futuraBook;
+    src: url(../Assets/Futura\ Book\ font.ttf);
+
+}
+
+@font-face {
+    font-family: futuraExtraBold;
+    src: url(../Assets/Futura\ Extra\ Black\ font.ttf);
+
+}
